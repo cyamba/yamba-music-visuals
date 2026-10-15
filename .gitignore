@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.mp4
+*.mov
+*.npz
+*.mp3
+*.wav
+*.flac
+musicviz/fonts/
+fonts/
+work/
+.venv/
