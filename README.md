@@ -8,7 +8,7 @@ the colour palette travels from calm to intense as the music builds.
 
 ![Frames from "Forgotten Mysteries"](docs/frames.jpg)
 
-Made for **[Forgotten Mysteries (2007), Christopher Yamba](https://www.yambacode.com/music)**.
+Made for **[Forgotten Mysteries (2007), Christopher Yamba](https://www.christopheryamba.com/music/)**.
 
 ## Quick start
 
@@ -23,7 +23,7 @@ pip install -r requirements.txt
 python -m musicviz song.mp3 -o video.mp4 \
   --title "Forgotten Mysteries" --artist "Christopher Yamba" --year 2007 \
   --tagline "More compositions from the past and future coming soon…" \
-  --url "yambacode.com/music"
+  --url "christopheryamba.com/music"
 ```
 
 Try a 20-second window first, then render the whole thing:
